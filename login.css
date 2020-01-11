@@ -1,0 +1,50 @@
+#main-box{
+
+    margin: 0 auto;
+    width:400px;
+    height: q;
+    text-align: center;
+    margin-top:15%;
+    background-color: #00000020;
+}
+#main-box p{
+    font-size: 25px;
+    color:#ffffff;
+    font-weight: bold;
+padding-top:5px;
+}
+#main-box .input-area .item{
+    margin-top:10px;
+    margin-left: -16px;
+}
+#main-box .input-area .item i{
+    color:#ffffff;
+}
+#main-box .input-area .item input {
+    border:0px;
+    border-bottom: 3px solid #ffffff;
+    background-color: #ffffff00; 
+    width:220px;
+    color:#ffffff;
+    outline: none;
+    
+}
+#main-box .input-area .item input::-webkit-input-placeholder {
+    font-size: 15px;
+    color: #ffffff;}
+#main-box  .submit{
+    width:200px;
+  font-size: 15px;
+   margin-top: 40px;
+   background-image: linear-gradient(to right,#f10c0f90 0%, #3a86d0 100%);
+  color:#ffffff80;
+  border-radius:20px;
+  border:none;
+ 
+}
+body{
+    background: url("login2.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
